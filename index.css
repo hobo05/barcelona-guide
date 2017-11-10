@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+header {
+    background-image    : url(images/header_barcelona.jpg);
+    background-size: auto 149.6px ;
+    background-position : top center;
+    background-repeat   : no-repeat;
+}
+#header_inner {
+    font-family: Satisfy
+}
